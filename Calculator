@@ -1,0 +1,18 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+	int a,b,sum,diff,multiply,modulus,division;
+	cout<<"Enter the value";
+	cin>>a>>b;
+	sum=(a+b);
+	diff=(a-b);
+	multiply=(a*b);
+	modulus=(a%b);
+	division=(a/b);
+	cout<<"Sum is \n"<<sum<<"\n";
+    cout<<"diff is \n"<<diff<<"\n";
+	cout<<"multiply is \n"<<multiply<<"\n";
+	cout<<"modulus is \n"<<modulus<<"\n";
+	cout<<"division is n"<<division<<"\n";
+}

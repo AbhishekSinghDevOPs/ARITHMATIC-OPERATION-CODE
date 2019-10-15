@@ -1,2 +1,0 @@
-scm lecture
-scm lecture 2
